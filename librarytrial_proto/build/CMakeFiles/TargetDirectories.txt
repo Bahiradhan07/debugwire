@@ -1,0 +1,5 @@
+/home/prasanna/librarytrial_proto/build/CMakeFiles/i2c_lib.dir
+/home/prasanna/librarytrial_proto/build/CMakeFiles/vsomeipclient.dir
+/home/prasanna/librarytrial_proto/build/CMakeFiles/client_test.dir
+/home/prasanna/librarytrial_proto/build/CMakeFiles/edit_cache.dir
+/home/prasanna/librarytrial_proto/build/CMakeFiles/rebuild_cache.dir

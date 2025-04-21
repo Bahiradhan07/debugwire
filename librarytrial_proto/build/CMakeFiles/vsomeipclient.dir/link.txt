@@ -1,0 +1,2 @@
+/usr/bin/ar qc libvsomeipclient.a CMakeFiles/vsomeipclient.dir/src/vsomeipclient.cpp.o
+/usr/bin/ranlib libvsomeipclient.a
